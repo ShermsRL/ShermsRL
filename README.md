@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sherman
-- 👀 I’m interested in learning programming and reading.
-- 🌱 I’m currently learning python! Doing my 100days of code on udemy currently. (probably way more than 100days due to my line of work)
-- 💞️ I’m looking to collaborate on - nothing, just a newbie learning how to code and trying to take in as much things as possible :)
+- 🌱 I’m currently learning python! Doing my 100days of code on udemy currently. (probably way more than 100days due to my line of work) - started 12 March 2022
 - 📫 How to reach me - shermantaymk@gmail.com
 
 <!---
