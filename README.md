@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sherman
-- 🌱 I’m currently learning python! Doing my 100days of code on udemy currently. (probably way more than 100days due to my line of work) - started 12 March 2022
+- 🌱 I’m currently learning python! Doing my 100days of code on udemy currently. (probably way more than 100days due to my line of work) - started 12 March 2022 (COMPLETED)
 - 📫 How to reach me - shermantaymk@gmail.com
 
 <!---
