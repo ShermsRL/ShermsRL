@@ -1,17 +1,14 @@
 ![MasterHead](https://github.com/ShermsRL/ShermsRL/blob/main/header.png)
 
 <!--- About Me --->
-<h1 align="center">About Me</h1>
-
-
 
 <!--- GitHub Stats --->
 <h1 align="center">My GitHub Stats</h1>
 <div align="center">
-<a href="https://github.com/ShermsRL/100_Days_of_Python">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShermsRL&theme=calm" />
 </a>
-<a href="https://github.com/ShermsRL/javascriptCourse">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShermsRL&layout=compact&langs_count=8&card_width=320&theme=calm" />
 </a>
 </div>
