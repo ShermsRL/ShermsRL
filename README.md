@@ -35,7 +35,7 @@
   
   | Projects  | Courses |
   | ------------- | ------------- |
-  | Automated WhatsApp Invitation Bot for Events  | JavaScript |
+  | Automated WhatsApp Invitation Script for Events  | JavaScript |
   
 </div>
 
