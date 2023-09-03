@@ -35,8 +35,10 @@
   
   | Projects  | Courses |
   | ------------- | ------------- |
-  | Automated WhatsApp Invitation Script for Events  | JavaScript |
-  
+  | Automated WhatsApp Invitation Script for Events ✅ | C++ |
+
+  I am also starting to dip my toes into open source projects! Let me know if there is anything I can help out with :)
+
 </div>
 
 
